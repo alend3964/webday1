@@ -1,0 +1,10 @@
+#port{font-family:lucida console;font-size: 30px;color:black;}
+.me{font-family:Georgia ;color: black;font-weight: bolder;font: size 20px;}
+img{ border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    width: 200px;border-color:darkolivegreen;}
+h3{font-family: Arial;font-size: 20px;color: darkolivegreen;}
+.hobbie{font-family: 'Times New Roman';}
+.contact{color: blue;font-size:17px ;font-weight: bolder;}
+body{background-image:url(./IMAGES/bg3.jpg);}
